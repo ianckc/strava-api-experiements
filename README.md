@@ -1,5 +1,7 @@
-strava-api-experiements
+Strava API Experiements
 =======================
+
+## No longer receiving security updates
 
 Playing around with the Strava API.
 
